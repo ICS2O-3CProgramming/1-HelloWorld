@@ -9,7 +9,7 @@
 local textObject
 
 -- create another local variable
---***INSERT THE CODE TO CREATE ANOTHER TEXT OBJECT
+--***INSERT THE CODE TO CREATE A SECOND TEXT OBJECT
 
 -- print "Hello, World" to the command terminal
 print ("***Hello Your Name!")
@@ -34,4 +34,4 @@ textObject = display.newText( "Hello, Your Name!", 500, 500, nil, 50 )
 textObject:setTextColor(155/255, 42/255, 198/255)
 
 -- create another text object that displays "Created by: Your Name" in a different colour underneath the previous text object
---***INSERT THE CODE FOR THIS COMMENT
+--***INSERT THE CODE TO DO WHAT THE ABOVE COMMENT SAYS
